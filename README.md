@@ -16,6 +16,7 @@ If you don't already know Vonage: We make telephony APIs. If you need to make a 
     * [Using a Local Branch](#using-a-local-branch)
   * [Getting Help](#getting-help)
   * [Further Reading](#further-reading)
+  * [license](#license)
 
 ## Installation
 
